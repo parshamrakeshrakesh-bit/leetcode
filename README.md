@@ -27,4 +27,8 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/parshamrakeshrakesh-bit/leetcode/tree/master/0018-4sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1155-number-of-dice-rolls-with-target-sum](https://github.com/parshamrakeshrakesh-bit/leetcode/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 <!---LeetCode Topics End-->
