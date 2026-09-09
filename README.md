@@ -9,10 +9,12 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/parshamrakeshrakesh-bit/leetcode/tree/master/0013-roman-to-integer) |
+| [1154-day-of-the-year](https://github.com/parshamrakeshrakesh-bit/leetcode/tree/master/1154-day-of-the-year) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/parshamrakeshrakesh-bit/leetcode/tree/master/0013-roman-to-integer) |
+| [1154-day-of-the-year](https://github.com/parshamrakeshrakesh-bit/leetcode/tree/master/1154-day-of-the-year) |
 ## Array
 |  |
 | ------- |
