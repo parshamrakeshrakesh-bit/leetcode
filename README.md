@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/parshamrakeshrakesh-bit/leetcode/tree/master/0018-4sum) |
+| [0046-permutations](https://github.com/parshamrakeshrakesh-bit/leetcode/tree/master/0046-permutations) |
 | [2784-check-if-array-is-good](https://github.com/parshamrakeshrakesh-bit/leetcode/tree/master/2784-check-if-array-is-good) |
 ## Two Pointers
 |  |
@@ -34,4 +35,8 @@
 |  |
 | ------- |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/parshamrakeshrakesh-bit/leetcode/tree/master/1155-number-of-dice-rolls-with-target-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/parshamrakeshrakesh-bit/leetcode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
