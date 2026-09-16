@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/parshamrakeshrakesh-bit/leetcode/tree/master/0013-roman-to-integer) |
+| [0128-longest-consecutive-sequence](https://github.com/parshamrakeshrakesh-bit/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [2784-check-if-array-is-good](https://github.com/parshamrakeshrakesh-bit/leetcode/tree/master/2784-check-if-array-is-good) |
 ## Math
 |  |
@@ -21,6 +22,7 @@
 | ------- |
 | [0018-4sum](https://github.com/parshamrakeshrakesh-bit/leetcode/tree/master/0018-4sum) |
 | [0046-permutations](https://github.com/parshamrakeshrakesh-bit/leetcode/tree/master/0046-permutations) |
+| [0128-longest-consecutive-sequence](https://github.com/parshamrakeshrakesh-bit/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [2784-check-if-array-is-good](https://github.com/parshamrakeshrakesh-bit/leetcode/tree/master/2784-check-if-array-is-good) |
 ## Two Pointers
 |  |
@@ -39,4 +41,8 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/parshamrakeshrakesh-bit/leetcode/tree/master/0046-permutations) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/parshamrakeshrakesh-bit/leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
