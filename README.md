@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/parshamrakeshrakesh-bit/leetcode/tree/master/0018-4sum) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/parshamrakeshrakesh-bit/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/parshamrakeshrakesh-bit/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/parshamrakeshrakesh-bit/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 ## Recursion
 |  |
 | ------- |
