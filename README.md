@@ -23,6 +23,7 @@
 | [0018-4sum](https://github.com/parshamrakeshrakesh-bit/leetcode/tree/master/0018-4sum) |
 | [0046-permutations](https://github.com/parshamrakeshrakesh-bit/leetcode/tree/master/0046-permutations) |
 | [0128-longest-consecutive-sequence](https://github.com/parshamrakeshrakesh-bit/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0134-gas-station](https://github.com/parshamrakeshrakesh-bit/leetcode/tree/master/0134-gas-station) |
 | [2784-check-if-array-is-good](https://github.com/parshamrakeshrakesh-bit/leetcode/tree/master/2784-check-if-array-is-good) |
 ## Two Pointers
 |  |
@@ -55,4 +56,8 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/parshamrakeshrakesh-bit/leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/parshamrakeshrakesh-bit/leetcode/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
