@@ -24,6 +24,7 @@
 | [0046-permutations](https://github.com/parshamrakeshrakesh-bit/leetcode/tree/master/0046-permutations) |
 | [0128-longest-consecutive-sequence](https://github.com/parshamrakeshrakesh-bit/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/parshamrakeshrakesh-bit/leetcode/tree/master/0134-gas-station) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/parshamrakeshrakesh-bit/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/parshamrakeshrakesh-bit/leetcode/tree/master/2784-check-if-array-is-good) |
 ## Two Pointers
 |  |
@@ -60,4 +61,8 @@
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/parshamrakeshrakesh-bit/leetcode/tree/master/0134-gas-station) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/parshamrakeshrakesh-bit/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
