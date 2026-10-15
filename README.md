@@ -7,6 +7,7 @@
 | [0013-roman-to-integer](https://github.com/parshamrakeshrakesh-bit/leetcode/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/parshamrakeshrakesh-bit/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [2784-check-if-array-is-good](https://github.com/parshamrakeshrakesh-bit/leetcode/tree/master/2784-check-if-array-is-good) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/parshamrakeshrakesh-bit/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Math
 |  |
 | ------- |
@@ -26,6 +27,7 @@
 | [0134-gas-station](https://github.com/parshamrakeshrakesh-bit/leetcode/tree/master/0134-gas-station) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/parshamrakeshrakesh-bit/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/parshamrakeshrakesh-bit/leetcode/tree/master/2784-check-if-array-is-good) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/parshamrakeshrakesh-bit/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -65,4 +67,12 @@
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/parshamrakeshrakesh-bit/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/parshamrakeshrakesh-bit/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/parshamrakeshrakesh-bit/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
